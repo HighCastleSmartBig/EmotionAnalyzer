@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.takiken.emotionanalyzer.MainActivity">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="146dp"
+        android:layout_height="96dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="148dp"
+        android:layout_height="99dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="199dp"
+        tools:layout_editor_absoluteY="82dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="150dp"
+        android:layout_height="101dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="304dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="140dp"
+        android:layout_height="106dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="203dp"
+        tools:layout_editor_absoluteY="301dp" />
+
+</android.support.constraint.ConstraintLayout>
